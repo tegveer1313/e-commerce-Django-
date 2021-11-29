@@ -57,3 +57,4 @@ def bagsView(request, myid):
 
 def checkout(request):
     return HttpResponse("We are at checkout")
+# Made by Tegveer Singh Bhatia
